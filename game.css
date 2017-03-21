@@ -1,0 +1,26 @@
+
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	background-color: #EEEEEE;
+	display: flex;
+}
+#one{
+	background-color: #8d8d8d;
+	height:400px;
+	width:400px;
+	position:absolute;
+	top:20%;
+	left:35%;
+}
+#two{
+	background-color: skyblue;
+	height:100px;
+	width:100px;
+	position:absolute;
+	top:38%;
+	left:39%;
+	border-radius: 100%;
+}
